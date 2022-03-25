@@ -155,7 +155,7 @@ export default function Home() {
         </div>
         <div className="bg-gray-100 mt-10 space-x-20 py-10 px-5">
           <div className="flex flex-row items-center">
-            <h1 className="text-3xl font-semibold mr-5">Work</h1>
+            <h1 className="text-3xl font-semibold">Work</h1>
             <img
               className="hover:animate-wiggle"
               src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61e00c2abb525b14ce29f484_%F0%9F%93%9D.png"
