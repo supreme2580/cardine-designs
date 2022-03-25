@@ -154,7 +154,7 @@ export default function Home() {
           height={350} />
         </div>
         <div className="bg-gray-100 mt-10 py-10 px-5">
-          <div className="flex flex-row items-center ml-5">
+          <div className="flex flex-row items-center ml-10">
             <h1 className="text-3xl font-semibold">Work</h1>
             <img
               className="hover:animate-wiggle"
@@ -162,7 +162,7 @@ export default function Home() {
               width={50}
               height={50} />
           </div>
-          <div className="sm:grid grid-cols-3 flex flex-col gap-10 my-10">
+          <div className="sm:grid grid-cols-3 flex flex-col gap-10 my-10 ml-10">
             <div className="cards">
               <a href="https://www.cardines.design/work/selnara">
                 <Image
