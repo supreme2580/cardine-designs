@@ -35,21 +35,21 @@ export default function Home() {
             <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGBM2NDtRnZTgAAAX-3jbXAbP6YAav-ZRohwebBy8BavOmOYjtRm
               VxZX1P3BhhU0C2ZQyGpONIFoIfPoI0v3yB-6_s4cS-Cn1xTw6Xpe26b3X4cSvss0VGyDaZwa3rWmgCPBWY=&originalReferer=https://www
               .cardines.design/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdcardines%2F"
-              target="_blank">
+              target="_blank" rel="noreferrer">
               <img
               src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61dfbf3729e13cebb7fa9042_linkedin.svg"
               alt="image"
               width={40}
               height={50} />
             </a>
-            <a href="https://dribbble.com/dcardines" target="_blank">
+            <a href="https://dribbble.com/dcardines" target="_blank" rel="noreferrer">
               <img
               src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61dfbf37cbbc7f39501d8299_dribbble.svg"
               alt="image"
               width={40}
               height={50} />
             </a>
-            <a href="https://www.behance.net/dcardines" target="_blank">
+            <a href="https://www.behance.net/dcardines" target="_blank" rel="noreferrer">
               <img
               src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61dfbf374e1ac4f7d87ecc33_behance.svg"
               alt="image"
@@ -65,21 +65,21 @@ export default function Home() {
             <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGBM2NDtRnZTgAAAX-3jbXAbP6YAav-ZRohwebBy8BavOmOYjtRm
               VxZX1P3BhhU0C2ZQyGpONIFoIfPoI0v3yB-6_s4cS-Cn1xTw6Xpe26b3X4cSvss0VGyDaZwa3rWmgCPBWY=&originalReferer=https://www
               .cardines.design/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdcardines%2F"
-              target="_blank">
+              target="_blank" rel="noreferrer">
               <img
               src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61dfbf3729e13cebb7fa9042_linkedin.svg"
               alt="image"
               width={40}
               height={50} />
             </a>
-            <a href="https://dribbble.com/dcardines" target="_blank">
+            <a href="https://dribbble.com/dcardines" target="_blank" rel="noreferrer">
               <img
               src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61dfbf37cbbc7f39501d8299_dribbble.svg"
               alt="image"
               width={40}
               height={50} />
             </a>
-            <a href="https://www.behance.net/dcardines" target="_blank">
+            <a href="https://www.behance.net/dcardines" target="_blank" rel="noreferrer">
               <img
               src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61dfbf374e1ac4f7d87ecc33_behance.svg"
               alt="image"
@@ -260,7 +260,7 @@ export default function Home() {
           </div>
           <div className="sm:mx-32 mx-16 sm:grid grid-cols-3 flex flex-col gap-10">
             <div className="cards">
-              <a href="https://www.coursera.org/account/accomplishments/verify/RHU79JWHZ4T2" target="_blank">
+              <a href="https://www.coursera.org/account/accomplishments/verify/RHU79JWHZ4T2" target="_blank" rel="noreferrer">
                 <Image
                   className="rounded-md hover:opacity-90"
                   layout="intrinsic"
@@ -275,7 +275,7 @@ export default function Home() {
               </a>
             </div>
             <div className="cards">
-              <a href="https://drive.google.com/file/d/1mz5CXkJJQPTsRB7Za5wk5SEgU1dq-VJN/view" target="_blank">
+              <a href="https://drive.google.com/file/d/1mz5CXkJJQPTsRB7Za5wk5SEgU1dq-VJN/view" target="_blank" rel="noreferrer">
                 <Image
                   className="rounded-md hover:opacity-90"
                   layout="intrinsic"
@@ -290,7 +290,7 @@ export default function Home() {
               </a>
             </div>
             <div className="cards">
-              <a href="https://www.coursera.org/account/accomplishments/certificate/U7RJZUC94Q68" target="_blank">
+              <a href="https://www.coursera.org/account/accomplishments/certificate/U7RJZUC94Q68" target="_blank" rel="noreferrer">
                 <Image
                   className="rounded-md hover:opacity-90"
                   layout="intrinsic"
@@ -305,7 +305,7 @@ export default function Home() {
               </a>
             </div>
             <div className="cards">
-              <a href="https://www.coursera.org/account/accomplishments/verify/LJWNMZY8SFF5" target="_blank">
+              <a href="https://www.coursera.org/account/accomplishments/verify/LJWNMZY8SFF5" target="_blank" rel="noreferrer">
                 <Image
                   className="rounded-md hover:opacity-90"
                   layout="intrinsic"
@@ -320,7 +320,7 @@ export default function Home() {
               </a>
             </div>
             <div className="cards">
-              <a href="http://www.graphikamanila.com/uxplus2019coa/TA1159" target="_blank">
+              <a href="http://www.graphikamanila.com/uxplus2019coa/TA1159" target="_blank" rel="noreferrer">
                 <Image
                   className="rounded-md hover:opacity-90"
                   layout="intrinsic"
@@ -335,7 +335,7 @@ export default function Home() {
               </a>
             </div>
             <div className="cards">
-              <a href="https://www.coursera.org/account/accomplishments/verify/B7RB8TG2RXWD" target="_blank">
+              <a href="https://www.coursera.org/account/accomplishments/verify/B7RB8TG2RXWD" target="_blank" rel="noreferrer">
                 <Image
                   className="rounded-md hover:opacity-90"
                   layout="intrinsic"
@@ -350,7 +350,7 @@ export default function Home() {
               </a>
             </div>
             <div className="cards">
-              <a href="https://www.coursera.org/account/accomplishments/verify/NDBVNUAR4S3X" target="_blank">
+              <a href="https://www.coursera.org/account/accomplishments/verify/NDBVNUAR4S3X" target="_blank" rel="noreferrer">
                 <Image
                   className="rounded-md hover:opacity-90"
                   layout="intrinsic"
