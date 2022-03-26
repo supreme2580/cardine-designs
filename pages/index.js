@@ -162,7 +162,7 @@ export default function Home() {
           width={350}
           height={350} />
         </div>
-        <div className="bg-gray-100 mt-10 py-10 px-5">
+        <div className="bg-gray-100 mt-10 py-10 px-5 min-w-full">
           <div className="flex flex-row items-center ml-10">
             <h1 className="text-3xl font-semibold">Work</h1>
             <img
