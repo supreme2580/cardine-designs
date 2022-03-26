@@ -379,7 +379,7 @@ export default function Home() {
         <div className="mx-20">
         <div className="flex flex-col">
         <div className="flex flex-row items-center">
-          <h1 className="text-4xl text-black font-semibold mr-5">Shots</h1>
+          <h1 className="text-4xl text-black font-semibold ml-5">Shots</h1>
           <img
             className="hover:animate-bounce"
             src="https://uploads-ssl.webflow.com/61dbcee9ee276fc3738f48fe/61dffdb4bb525be5d129a80e_%F0%9F%8F%80.svg"
